@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /animation/
+Disallow: /just3d/
+
+User-agent: *
+Allow: /
+Disallow: /robot.txt
+
+Sitemap: http://www.tarlie.fr/
